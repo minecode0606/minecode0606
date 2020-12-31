@@ -4,8 +4,8 @@
 > Hello, I am Minseo Kang, a middle school student developer who is active under the nickname "minecode".
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minecode0606)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
