@@ -4,5 +4,6 @@
 > Hello, I am Minseo Kang, a middle school student developer who is active under the nickname "minecode".
 
 # 소속
-  * 용인현암중학교 (1학년)
-  * 
+  * 용인현암초등학교 (졸업)
+  * 용인현임중학교 (1학년 재학중)
+  
