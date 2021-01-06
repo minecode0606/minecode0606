@@ -3,9 +3,6 @@
 >
 > Hello, I am Minseo Kang, a middle school student developer in KOREA. Also I use nickname "minecode".
 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:taywook74@gmail.com)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
