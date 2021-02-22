@@ -1,19 +1,20 @@
-# Hello_World!
-> 안녕하세요 저는 "마코" 라는 닉네임으로 활동하고있는 중학생 강민서입니다.
->
-> Hello, I am Minseo Kang, a middle school student developer in KOREA. Also I use nickname "minecode".
+## Kangminseo -- @minecode0606
+👋 Hello_World! Welcome to my Github profile!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=minecode0606&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 🛰
 
-
-# 소속
-  * 용인현암초등학교 (졸업)
-  * 용인현암중학교 (예비 2학년)
+### 🏙I’m currently working on
+  * Yongin Hyunam Elementary School (Graduated)
+  * Yongin Hyunam Middle School (Attending)
   
-# 연락처
+### 📖I’m currently learning
+
+### 📞Contact
  * Mali : [minseo_0606@naver.com]
  * Discord : 강민서#4052
  
