@@ -9,8 +9,8 @@
 
 
 ### 🏙I’m currently working on
-  * Yongin Hyunam Elementary School (Graduated)
-  * Yongin Hyunam Middle School (Attending)
+  * Yongin Hyeonam Elementary School (Graduated)
+  * Yongin Hyeonam Middle School (Attending)
   
 ### 📖I’m currently learning 
  * python Machine_Learming
