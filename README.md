@@ -1,4 +1,4 @@
-## Kangminseo -- @minecode0606
+## minseoKang -- @minecode0606
 👋 Hello_World! Welcome to my Github profile!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=minecode0606&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
