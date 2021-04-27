@@ -1,5 +1,4 @@
 ## minseoKang -- @minecode0606
-👋 Hello_World! Welcome to my Github profile!  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=minecode's%20Github&fontSize=90)
 
 
