@@ -1,9 +1,18 @@
 ## minseoKang -- @minecode0606
 👋 Hello_World! Welcome to my Github profile!  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=minecode's%20Github&fontSize=90)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minecode0606&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![minseo github stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true&theme=tokyonight )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=6&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Kinesys/github-readme-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minecode0606&theme=monokai)
+
+[![](https://raw.githubusercontent.com/Kinesys/Kinesys/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 
 ### 🏙I’m currently working on
