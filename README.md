@@ -9,9 +9,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minecode0606&theme=monokai)
 
-[![](https://raw.githubusercontent.com/Kinesys/Kinesys/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 ### 🏙I’m currently working on
   * Yongin Hyeonam Elementary School (Graduated)
   * Yongin Hyeonam Middle School (Attending)
