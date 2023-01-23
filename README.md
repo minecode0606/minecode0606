@@ -11,13 +11,14 @@
 
 ### 🏙I’m currently working on
   * Yongin Hyeonam Elementary School (Graduated)
-  * Yongin Hyeonam Middle School (Attending)
+  * Yongin Hyeonam Middle School (Graduated)
+  * Hankuk Academy Of Foreign Studies (Attending)
   
 ### 📖I’m currently learning 
  * python Machine_Learming
  * BigData and Data science
- * React.js Frontend
- * node.js, Django Backend
+ * ~~React.js Frontend~~
+ * ~~node.js, Django Backend~~
 
 ## 💻 Main Languages
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.oracle.com/kr/java/technologies/javase-downloads.html/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
