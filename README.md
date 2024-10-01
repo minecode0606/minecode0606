@@ -1,14 +1,6 @@
 ## minseoKang -- @minecode0606
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=minecode's%20Github&fontSize=90)
 
-
-
-![minseo github stats](https://github-readme-stats.vercel.app/api?username=minecode0606&show_icons=true&theme=tokyonight )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecode0606&langs_count=6&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Kinesys/github-readme-stats)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minecode0606&theme=monokai)
-
 ### 🏙I’m currently working on
   * Yongin Hyeonam Elementary School (Graduated)
   * Yongin Hyeonam Middle School (Graduated)
