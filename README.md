@@ -7,10 +7,10 @@ My goal is to develop AI technologies that serve humanity, inspired by the spiri
 Hello~! I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
 
 
-저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다. 저는 인공지능을 응용한 다양한 연구와 개발을 진행하며 꿈을 실현시키고 있습니다.
+저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다. 저는 인공지능을 응용한 다양한 연구와 개발을 진행하며 꿈을 실현시키고 있습니다.  
 I aspire to become a developer who brings happiness to society through AI. I’m pursuing this dream by conducting various research and development projects applying AI.
 
-구체적으로, 새로운 과학 기술을 고민하고 개발해 실효성을 입증합니다. 그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하는 특기가 있습니다. 
+구체적으로, 새로운 과학 기술을 고민하고 개발해 실효성을 입증합니다. 그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하는 특기가 있습니다.   
 Specifically, I explore and develop new scientific technologies and verify their effectiveness. I also create services that use these technologies to make a positive impact on society.
 
 ### 💻 portfolio
