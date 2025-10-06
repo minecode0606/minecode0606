@@ -3,15 +3,21 @@
 My goal is to develop AI technologies that serve humanity, inspired by the spirit of Hongik Ingan  
 — creating a world where everyone can thrive together
 ### minseoKang -- @minecode0606
-👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ 저는 대한민국의 고등학교인 용인한국외국어대학교부설고등학교에서 인공지능을 공부하고 연구하는 학생입니다.   
-Hello~! I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
+👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
+Hello~!  
+저는 용인한국외국어대학교부설고등학교에서 인공지능을 공부하고 연구하는 학생입니다.   
+I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
 
 
-저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다. 저는 인공지능을 응용한 다양한 연구와 개발을 진행하며 꿈을 실현시키고 있습니다.  
-I aspire to become a developer who brings happiness to society through AI. I’m pursuing this dream by conducting various research and development projects applying AI.
+저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다.  
+I aspire to become a developer who brings happiness to society through AI.  
+그래서 저는 인공지능을 응용한 다양한 연구와 개발을 진행하며 꿈을 실현시키고 있습니다.  
+I’m pursuing this dream by conducting various research and development projects applying AI.
 
-구체적으로, 새로운 과학 기술을 고민하고 개발해 실효성을 입증합니다. 그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하는 특기가 있습니다.   
-Specifically, I explore and develop new scientific technologies and verify their effectiveness. I also create services that use these technologies to make a positive impact on society.
+구체적으로, 새로운 과학 기술을 고민하고 개발하는 연구를 하고 있습니다.    
+Specifically, I explore and develop new scientific technologies and verify their effectiveness.  
+그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하는 특기가 있습니다.  
+I also create services that use these technologies to make a positive impact on society.  
 
 ### 💻 portfolio
 * 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
