@@ -4,7 +4,7 @@ My goal is to develop AI technologies that serve humanity, inspired by the spiri
 — creating a world where everyone can thrive together
 ### minseoKang -- @minecode0606
 👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
-Hello~!  
+Hello_World~!  
 저는 용인한국외국어대학교부설고등학교에서 인공지능을 공부하고 연구하는 학생입니다.   
 I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
 
