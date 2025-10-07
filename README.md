@@ -11,7 +11,7 @@ I’m a student studying and conducting research in AI at Yongin Hankuk Academy 
 
 저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다.  
 I aspire to become a developer who brings happiness to society through AI.  
-그래서 저는 인공지능을 응용한 다양한 연구와 개발을 진행하며 꿈을 실현시키고 있습니다.  
+그래서 저는 인공지능을 응용한 다양한 과학기술을 연구하며 꿈을 실현시키고 있습니다.  
 I’m pursuing this dream by conducting various research and development projects applying AI.
 
 구체적으로, 새로운 과학 기술을 고민하고 개발하는 연구를 하고 있습니다.    
