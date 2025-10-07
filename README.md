@@ -16,7 +16,7 @@ I’m pursuing this dream by conducting various research and development project
 
 구체적으로, 새로운 과학 기술을 고민하고 개발하는 연구를 하고 있습니다.    
 Specifically, I explore and develop new scientific technologies and verify their effectiveness.  
-그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하는 특기가 있습니다.  
+그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하며 끊임없이 도전하고 있습니다.
 I also create services that use these technologies to make a positive impact on society.  
 
 ### 💻 portfolio
