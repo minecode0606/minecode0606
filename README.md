@@ -9,8 +9,8 @@ Hello_World~!
 I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
 
 
-저는 인공지능을 통해 사회에 행복을 주는 개발자가 되는 것을 꿈꾸고 있습니다.  
-I aspire to become a developer who brings happiness to society through AI.  
+저는 인공지능을 통해 사회에 행복을 주는 연구자가 되는 것을 꿈꾸고 있습니다.  
+I aspire to become a researcher who brings happiness to society through AI.  
 그래서 저는 인공지능을 응용한 다양한 과학기술을 연구하며 꿈을 실현시키고 있습니다.  
 I’m pursuing this dream by conducting various research and development projects applying AI.
 
