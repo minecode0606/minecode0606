@@ -1,13 +1,11 @@
 ## "홍익인간은 우리 민족의 지킬 바 최고의 공리이다." -- 1941년 대한민국 임시정부 건국강령 中
 저는 홍익인간(弘益人間)의 이념 아래 좋은 인공지능기술을 연구해 인류공영(人類共榮)의 이상을 실현하고자 합니다.  
-My goal is to develop AI technologies that serve humanity, inspired by the spirit of Hongik Ingan  
-— creating a world where everyone can thrive together
+  
 ### minseoKang -- @minecode0606
 👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
 Hello_World~!  
-저는 용인한국외국어대학교부설고등학교에서 인공지능을 공부하고 연구하는 학생입니다.   
-I’m a student studying and conducting research in AI at Yongin Hankuk Academy of Foreign Studies, a high school in South Korea.  
-
+저는 한국에너지공과대학교에서 인공지능을 공부하고 연구하는 학생입니다.   
+I’m a student studying and conducting research in AI at Korea Institute of Energy Technology.
 
 저는 인공지능을 통해 사회에 행복을 주는 연구자가 되는 것을 꿈꾸고 있습니다.  
 I aspire to become a researcher who brings happiness to society through AI.  
@@ -21,11 +19,8 @@ I also create services that use these technologies to make a positive impact on 
 
 ### 💻 portfolio
 * 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
-  * 인공지능 국어 과외 홈페이지 제작
 * 2024 포스코 DX AI YOUTH CHALLENGE 포스코DX사장상(2위)  
-   - 시각장애인전용 그림감상 인공지능 모자 제작
 * 2024 한화사이언스챌린지 동상
-   * 심해열수구 발전기 제작
  
 ### 🛠️ Skills
 **Language**  
