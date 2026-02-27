@@ -18,6 +18,7 @@ I also create services that use these technologies to make a positive impact on 
 * 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
 * 2024 포스코 DX AI YOUTH CHALLENGE 포스코DX사장상(2위)  
 * 2024 한화사이언스챌린지 동상
+* 제 32회 삼성휴먼테크논문대상 동상
  
 ### 🛠️ Skills
 **Language**  
