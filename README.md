@@ -37,7 +37,7 @@ I also create services that use these technologies to make a positive impact on 
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 
 ### 📞 Contact
- * Email : [minseo_0606@naver.com]
+ * Email : [minseeoh@kentech.ac.kr]
  * Discord : 강민서#4052
  
 
