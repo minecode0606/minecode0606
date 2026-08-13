@@ -1,18 +1,9 @@
 ## minseoKang -- @minecode0606
 👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
 Hello_World~!  
-저는 한국에너지공과대학교에서 인공지능을 공부하고 연구하는 학생입니다.   
-I’m a student studying and conducting research in AI at Korea Institute of Energy Technology.
 
-저는 인공지능을 통해 사회에 행복을 주는 연구자가 되는 것을 꿈꾸고 있습니다.  
-I aspire to become a researcher who brings happiness to society through AI.  
-그래서 저는 인공지능을 응용한 다양한 과학기술을 연구하며 꿈을 실현시키고 있습니다.  
-I’m pursuing this dream by conducting various research and development projects applying AI.
-
-구체적으로, 새로운 과학 기술을 고민하고 개발하는 연구를 하고 있습니다.    
-Specifically, I explore and develop new scientific technologies and verify their effectiveness.  
-그리고, 개발한 기술을 활용하여 사회에 도움이 되는 서비스를 제작하며 끊임없이 도전하고 있습니다.  
-I also create services that use these technologies to make a positive impact on society.  
+개발자입니다. 배고파서 돈벌고 싶습니다.
+I'm developer and I'm hungry so I wanna get manymany modey. give me money.
 
 ### 💻 portfolio
 * 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
