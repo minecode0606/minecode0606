@@ -2,8 +2,8 @@
 👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
 Hello_World~!  
 
-개발자입니다. 배고파서 돈벌고 싶습니다.
-I'm developer and I'm hungry so I wanna get manymany modey. give me money.
+개발자입니다. 배고파서 돈벌고 싶습니다.  
+I'm developer and I'm hungry so I wanna get manymany modey. give me money. show me the money.  
 
 ### 💻 portfolio
 * 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
