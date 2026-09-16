@@ -2,14 +2,10 @@
 👋 안녕하십니까 ˶˙ᵕ˙ )ﾉﾞ  
 Hello_World~!  
 
-연구자입니다. 배고파서 돈벌고 싶습니다.  
-I'm researcher and I'm hungry so I wanna get manymany money. 
+배고파서 돈벌고 싶습니다.  
+I'm hungry so I wanna get manymany money. 
 
-### 💻 Awards
-* 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
-* 2024 포스코 DX AI YOUTH CHALLENGE 포스코DX사장상(2위)  
-* 2024 한화사이언스챌린지 동상
-* 제 32회 삼성휴먼테크논문대상 동상
+
  
 ### 🛠️ Skills
 **Language**  
@@ -26,8 +22,12 @@ I'm researcher and I'm hungry so I wanna get manymany money.
 <img src="https://img.shields.io/badge/react  native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 
+### 💻 Awards
+* 전국 청소년 인공지능 프론티어 챌린지 2023 대상(광주광역시장상), 특별상(MS사장상)     
+* 2024 포스코 DX AI YOUTH CHALLENGE 포스코DX사장상(2위)  
+* 2024 한화사이언스챌린지 동상
+* 제 32회 삼성휴먼테크논문대상 동상
+
 ### 📞 Contact
  * Email : [minseeoh@kentech.ac.kr]
  * Discord : 강민서#4052
- 
-
