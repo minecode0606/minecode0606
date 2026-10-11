@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Minseo Kang 👋</h1>
 
-  <p><strong> AI & SW Researcher for Social Impact</strong></p>
+  <p><strong> Trustworthy AI & SW Researcher for Social Impact</strong></p>
 
   <p>
     Hello, World! <code>˶˙ᵕ˙ )ﾉﾞ</code><br>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Tensorflow-JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-<h3>Web &amp; Mobile</h3>
+<h3>Server &amp; Mobile</h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
